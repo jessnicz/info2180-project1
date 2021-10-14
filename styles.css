@@ -19,13 +19,23 @@ ul {
     float: right;
 }
 
-a {
+li a {
     padding: 10px;
+    color: #6b7280;
+}
+
+li a:hover{
+    color: #5A67D8;
 }
 
 
 h1 {
     text-align: left;
+}
+
+h2{
+    font-size: 24px;
+    color: #48BB78;
 }
 
 .container {
@@ -37,4 +47,22 @@ h1 {
 header{
     background-color: white;
     font-size: 18px;    
+}
+
+.overview-hero{
+    background-color: #E2E8F0;
+}
+
+.cards{
+    display: inline-flex;
+    padding: 20px;
+
+    
+}
+
+.card{
+    border-color: #E2E8F0;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px 5px;
+
 }
