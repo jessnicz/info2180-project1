@@ -164,10 +164,6 @@ header nav ul > li a:hover {
     text-align: left;
 }
 
-.newsletter > form {
-    align-items: center;
-}
-
 .newsletter input {
     display: inline-block;
     padding: 1em 5.5em 1em 1.5em;
